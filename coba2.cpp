@@ -105,6 +105,18 @@ void mugcari(){
 }
 
 int main(){
+	cout<<"-----------------------------------------------------------------------------------------"<<endl;
+	cout<<"|                                                                                        |"<<endl;
+	cout<<"|				Program Input Nilai & Mengurutkan Nilai Mahasiswa						|"<<endl;
+	cout<<"|                                                                                        |"<<endl;
+	cout<<"------------------------------------------------------------------------------------------"<<endl;
+	cout<<"|                        Mizar Zulmi Ramadhan     1717051073                             |"<<endl;
+	cout<<"|                        Yosua Sandi Susanto      1717051064                             |"<<endl;
+	cout<<"|                        Diana Rohma              1717051060                             |"<<endl;
+	cout<<"|                        Rizka Widyani AP         1717051052                             |"<<endl;
+	cout<<"------------------------------------------------------------------------------------------"<<endl;
+	cout<<endl;
+	getch();
 	system("cls");
 	inputmug();
 	mugtampil();
